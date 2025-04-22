@@ -23,3 +23,7 @@ This project aims to:
 - **Tkinter** (GUI framework)
 - **SQLite** (Relational database engine)
 - **CSV** (Data source format)
+
+## 🎬 Demo Video
+📽️ Click to watch the demo:  
+[▶️ UIAcademicPortal](https://drive.google.com/file/d/16egyTE6oyJNmb0MzqXmJ_jIEuXrml2Vj/view?usp=sharing)
