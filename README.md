@@ -29,4 +29,4 @@ This project aims to:
 - **CSV** (Data source format)
 
 ## 📄 Documentation  
-📘 The full report of this project (in **Bahasa Indonesia**) is available [here](DatabaseMiniProject_Report.pdf)
+📘 The full report of this project (in **Bahasa Indonesia**) is available [here](DatabaseFinalProject_Report.pdf)
