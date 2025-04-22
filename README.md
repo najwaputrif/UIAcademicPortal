@@ -27,3 +27,6 @@ This project aims to:
 - **Tkinter** (GUI framework)
 - **SQLite** (Relational database engine)
 - **CSV** (Data source format)
+
+## 📄 Documentation  
+📘 The full report of this project (in **Bahasa Indonesia**) is available [here](DatabaseMiniProject_Report.pdf)
