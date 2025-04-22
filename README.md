@@ -1,6 +1,10 @@
 # UIAcademicPortal 🎓
 **UIAcademicPortal** is a Python-based application equipped with a user-friendly graphical user interface (GUI), developed to optimize access to educational cost data and career prospects for each study program offered at Universitas Indonesia (UI). This project was created as part of a final assignment for a Database course.
 
+## 🎬 Demo Video
+📽️ Click to watch the demo:  
+[▶️ UIAcademicPortal](https://drive.google.com/file/d/16egyTE6oyJNmb0MzqXmJ_jIEuXrml2Vj/view?usp=sharing)
+
 ## 🎯 Project Goals
 Many prospective university students struggle to find clear, centralized information about:
 - Available faculties and study programs at UI
@@ -23,7 +27,3 @@ This project aims to:
 - **Tkinter** (GUI framework)
 - **SQLite** (Relational database engine)
 - **CSV** (Data source format)
-
-## 🎬 Demo Video
-📽️ Click to watch the demo:  
-[▶️ UIAcademicPortal](https://drive.google.com/file/d/16egyTE6oyJNmb0MzqXmJ_jIEuXrml2Vj/view?usp=sharing)
